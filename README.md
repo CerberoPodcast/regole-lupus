@@ -45,3 +45,4 @@ in tal caso i lupi sbranano i villici rimasti senza tanti complimenti!
 | 💕 | **PLAYLOVER** | Di notte indica due persone, il master dirà si se fanno parte della stessa squadra o no se sono di due fazioni diverse. |
 | ⚰️ | **BECCHINO** | Una volta a partita chiede al master un ruolo. Il master gli risponde si se il giocatore con quel ruolo è vivo o no se invece è morto. |
 | 🎰 | **LUDOPATICO** | Gioca e vince da solo, ogni notte indica una persona, quella persona diventa essa stessa ludopatica. Quando la maggioranza dei giocatori vivi diventano ludopatici, il ludopatico vince. |
+| 🔥 | **PIROMANE** | Ogni notte butta benzina addosso a una persona. In una notte a sua scelta deciderà di accendere la miccia, una volta fatto tutti gli imbenzinati moriranno. Vince da solo. |
