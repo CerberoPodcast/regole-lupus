@@ -50,3 +50,4 @@ in tal caso i lupi sbranano i villici rimasti senza tanti complimenti!
 | ⚖️ | **AVVOCHAD** | Durante la prima notte indica una persona e ne diventa l'avvocato. Lo difende indipendente dal suo ruolo e vince solo se vince la fazione del suo cliente. |
 | 🧙‍♂️ | **DRUIDO** | Gioca coi villici, di notte non viene ucciso al primo colpo (ha due vite). Se invece viene ucciso di giorno muore direttamente. |
 | 🧛 | **VAMPIRO** | Gioca coi lupi, la prima notte indica qualcuno e lo vampirizza. La persona scelta sarà il compagno del vampiro per tutta la durata della partita, e manterrà il suo ruolo se ce l'ha. Il cavaliere ad esempio si sveglierà due volte di notte, sia per uccidere qualcuno come vampiro, sia per proteggere qualcuno col suo ruolo di cavaliere. |
+| 🎲 | **IL PENGWIN** | Gioca da solo, al primo turno indica una persona e scommette su di lui. Se a fine partita quella persona rimane viva il Pengwin vince. |
