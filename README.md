@@ -1,4 +1,4 @@
-# 🐺 CERBERO PODCAST 🐺
+# 🐺 NONè LUPUS 🐺
 ## Regole & ruoli Lupus
 
 ### Regole
