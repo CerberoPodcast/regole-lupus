@@ -2,8 +2,6 @@
 
 ## Regolamento Ufficiale & Descrizione dei Ruoli
 
----
-
 ## 📜 **Regole Generali**
 
 ### 🎯 Obiettivo del Gioco
@@ -26,8 +24,6 @@ La partita è suddivisa in cicli **notte/giorno**:
 
 > ⚠️ La vittoria è **collettiva** per ogni fazione, anche per i membri già eliminati.
 > 🎭 Alcuni ruoli possono **cambiare fazione** o avere **obiettivi indipendenti**.
-
----
 
 ## 🧑‍💼 **Ruoli e Abilità**
 
@@ -69,7 +65,6 @@ La partita è suddivisa in cicli **notte/giorno**:
 | 📦 **CORRIERE**           | Scambia due giocatori: **tutti i poteri** (attacchi, indagini, ecc.) subiti da uno colpiranno l’altro. Gioca con i Lupi.                                         |
 | 🐶 **BASSOTTO MANNARO**   | Gioco da solo come un Lupo, durante una notte a partita sceglie se uccidere o convertire, se la persona convertita ha un ruolo lo sostituisce con il Bassotto.   |
 | ⚔️ **CAV.NERO BASSOTTO**  | Se protegge la stessa persona del Cavaliere, la uccide. Vede l'unico Bassotto nella prima notte ma il Bassotto non vede lui. È visto buono dal Veggente etc.     |
----
 
 ## 📌 **Note Finali**
 
